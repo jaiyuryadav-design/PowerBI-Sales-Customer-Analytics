@@ -23,9 +23,13 @@ The project is divided into four dashboards:
 - DAX
 - Data Cleaning
 - Data Visualization
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](Executive-Business-Analytics-Dashboard.png)
 
 ## Dashboard 1: Sales Analysis
-
+![Sales Analysis Dashboard](Sales_Dashboard.png)
 The Sales Dashboard provides an overview of overall business performance.
 
 Key metrics include:
@@ -39,7 +43,7 @@ Key metrics include:
 The dashboard also analyzes sales trends, top-performing products, product categories, and top customers.
 
 ## Dashboard 2: RFM Analysis
-
+![RFM Analysis Dashboard](RFM_Analysis_Dashboard.png)
 RFM Analysis was used to understand customer purchasing behavior based on:
 
 - Recency – How recently a customer purchased
@@ -57,12 +61,14 @@ Customers were segmented into:
 This analysis helps identify valuable customers and customers who may require re-engagement.
 
 ## Dashboard 3: CLV Analysis
+![CLV Analysis Dashboard](CLV_Analysis_Dashboard.png)
 
 Customer Lifetime Value (CLV) Analysis was used to understand the financial value contributed by customers based on the available historical transaction data.
 
 The dashboard identifies high-value customers, analyzes CLV distribution, and compares customer value across different customer segments.
 
 ## Dashboard 4: Churn Analysis
+![Churn Analysis Dashboard](Churn_Analysis_Dashboard.png)
 
 Churn Analysis identifies customers based on their inactivity period.
 
